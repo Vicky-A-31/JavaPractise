@@ -1,5 +1,5 @@
-import java.lang.Math;
 
+import java.lang.Math;
 public class RandomNumber {
     public static void main(String[] args) {
         // Math.random()*(max - min + 1) + min
